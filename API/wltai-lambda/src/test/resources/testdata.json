@@ -1,0 +1,18 @@
+[ {
+  "timeStamp" : 1683118194001,
+  "value" : 20.0,
+  "dataType" : "temp"
+}, {
+  "timeStamp" : 1683118194001,
+  				
+  "value" : 80.0,
+  "dataType" : "humidity"
+}, {
+  "timeStamp" : 1683118194001,
+  "value" : 10.2,
+  "dataType" : "wind"
+}, {
+  "timeStamp" : 1683118194001,
+  "value" : 10.2,
+  "dataType" : "pressure"
+} ]
