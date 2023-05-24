@@ -61,6 +61,10 @@ https://aws.amazon.com/lambda/
 Scris cu ajutorul domnului profesor Romulus Ioan Pasca
 https://github.com/motoras/
 
+### Team Aleph
+
+![Team Aleph Logo](Images/logo.png)
+
 > Proiect realizat de:
 >> Chifor Darius - Hardware, RPi Software, iOS App https://github.com/DaryusOctavian \
 >> Feier Raul    - Web App, Android App https://github.com/RaulFeier
