@@ -61,7 +61,7 @@ https://aws.amazon.com/lambda/
 Scris cu ajutorul domnului profesor Romulus Ioan Pasca
 https://github.com/motoras/
 
-### Team Aleph
+## Team Aleph
 
 ![Team Aleph Logo](Images/logo.png)
 
