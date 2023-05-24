@@ -62,5 +62,5 @@ Scris cu ajutorul domnului profesor Romulus Ioan Pasca
 https://github.com/motoras/
 
 > Proiect realizat de:
->> Chifor Darius - Hardware, RPi Software, iOS App https://github.com/DaryusOctavian\
+>> Chifor Darius - Hardware, RPi Software, iOS App https://github.com/DaryusOctavian \
 >> Feier Raul    - Web App, Android App https://github.com/RaulFeier
