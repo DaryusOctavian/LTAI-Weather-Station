@@ -1,0 +1,63 @@
+.about-us {
+  position: relative;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  width: 500px;
+  height: 700px;
+  padding: 20px;
+  background-color: #2d2d2d;
+  border-radius: 10px;
+  margin: 10px;
+  position: relative;
+  justify-content: center;
+}
+
+.main-container {
+  position: relative;
+  /* float: left; */
+  top: 10%;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.side-container-Chifor {
+  /* float: left; */
+  /* left: 5%; */
+  top: 50%;
+  position: relative;
+}
+
+.side-container-Raul {
+  /* float: left; */
+  /* right: 5%; */
+  top: 50%;
+  position: relative;
+}
+
+.logo {
+  width: 100px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-top: 0;
+  color: #fff;
+}
+
+.description {
+  font-size: 18px;
+  color: #ddd;
+  margin-bottom: 30px;
+}
+
+.highlighted-text {
+  font-size: 16px;
+  color: #eee;
+  margin-bottom: 15px;
+}
