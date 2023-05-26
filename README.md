@@ -53,6 +53,11 @@ https://github.com/jjoe64/GraphView
 Software-ul a fost scris cu ajutorul framework-ului React.js, in limbajul JavaScript
 https://github.com/facebook/react
 
+### Software - Discord Bot
+
+Software-ul a fost scris cu ajutorul librariei Discord.js
+https://discord.js.org
+
 ### Software - API
 
 Software-ul a fost scris in Java, pentru deployment in AWS Lambda
