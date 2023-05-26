@@ -26,7 +26,7 @@ Un breaker de laser
 
 Un panou solar si un holder de baterii
 
-![]()
+![Solar Panel Image](Images/Solar-Panel-Battery.png "Solar Panel and Batteries")
 
 Restul pieselor au fost realizate cu ajutorul imprimantei 3D Prusa Mini
 
